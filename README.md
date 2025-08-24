@@ -15,10 +15,9 @@ I'm Sharwari Rahangdale, a B.E. Computer Engineering student with a strong found
 *   HTML
 *   CSS
 *   JavaScript
-*   PHP
 
 ## Projects
-*   **Student Clearance System**: A web-based application built using HTML, CSS, JavaScript, and PHP.
+*   **Student Clearance System**: A web-based application built using HTML, CSS, JavaScript.
 *   **Portfolio Webpage**: A personal portfolio webpage built using HTML and CSS.
 
 ## Skills
@@ -38,7 +37,7 @@ If you'd like to get in touch, you can reach me at:
 *   Address: Yavatmal, India
 
 ## Live Demo
-You can view the live demo of my portfolio webpage at [https://sharwari-647.github.io/Portfilo/].
+You can view the live demo of my portfolio webpage at [https://sharwari-647.github.io/Portfolio/].
 
 ## Getting Started
 To view the code for this project, you can clone the repository and open the `index.html` file in your web browser.
